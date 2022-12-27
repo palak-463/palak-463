@@ -19,7 +19,7 @@
   
   :zap: A person who loves to skate and swim. <br>
   
-<div>
+</div>
   
   ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
 
