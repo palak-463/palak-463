@@ -1,5 +1,5 @@
 
-### <p align="center" style="font-size:100px;"> 👋 Bonjour! </p>
+### <p align="center"> 👋 Bonjour! </p>
 
 <div id="Header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200" alt="Coder"/>
