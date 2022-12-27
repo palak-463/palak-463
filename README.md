@@ -11,7 +11,7 @@
   :mailbox: A Full Stack Web Developer born and brought up in Pune, Maharashtra, India. <br>
   :telescope: Computer Engineering student who loves exploring domains related to tech. <br>
   :seedling: Keen about Technical Content Writing as well as Creative Content Writing. <br>
-  :zap: A person who thoroughly enjoys skating and swimming during her free time. <br>
+  :zap: A person who enjoys skating and swimming during her free time. <br>
 </div>
 
 ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
