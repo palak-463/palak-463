@@ -12,11 +12,8 @@
 <div id="Description" align="center">
   
   :mailbox: A Full Stack Developer from India. <br>
-  
   :telescope: Sophomore Computer Engineering student who loves exploring different domains related to tech. <br>
-  
   :seedling: Keen about Technical and Creative Content Writing. <br>
-  
   :zap: A person who loves to skate and swim. <br>
   
 </div>
