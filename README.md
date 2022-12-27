@@ -7,10 +7,12 @@
 ### <p align="center"> :woman_technologist: About Me : </p>
 
 <div id="Description" align="center">
-  - :mailbox: A Full Stack Developer from India. <br>
-  - :telescope: Sophomore Computer Engineering student who loves exploring different domains related to tech. <br>
-  - :seedling: Keen about Technical and Creative Content Writing. <br>
-  - :zap: A person who loves to skate and swim. <br>
+  <li>
+  <ol>- :mailbox: A Full Stack Developer from India. <br>
+  <ol>- :telescope: Sophomore Computer Engineering student who loves exploring different domains related to tech. <br>
+  <ol>- :seedling: Keen about Technical and Creative Content Writing. <br>
+  <ol>- :zap: A person who loves to skate and swim. <br>
+  </li>
 <div>
   
 ### :hammer_and_wrench: Languages and Tools :
