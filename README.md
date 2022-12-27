@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250" alt="Coder"/>
 </div>
 
-### <p align="center"> :woman_technologist: About Me : </p>
+### <p align="center"> :woman_technologist: About Me :</p>
 
 <div id="Description" align="center">
   <ul>
