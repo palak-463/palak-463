@@ -6,9 +6,9 @@
 
 ### :woman_technologist: About Me :
 
-- :mailbox: A Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :mailbox: A Full Stack Developer from India.
 
-- :telescope: Sophomore Computer Engineering student who loves exploring different domain related to tech.
+- :telescope: Sophomore Computer Engineering student who loves exploring different domains related to tech.
 
 - :seedling: Keen about Technical and Creative Content Writing.
 
