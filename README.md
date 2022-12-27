@@ -1,19 +1,18 @@
 ### <p align="center" style="font-size:100px;"> Bonjour 👋 </p>
 
-<div id="header" align="center">
+<div id="Header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250" alt="Coder"/>
 </div>
 
-### <p align="center"> :woman_technologist: About Me : 
+### <p align="center"> :woman_technologist: About Me : </p>
 
-- :mailbox: A Full Stack Developer from India.
-
-- :telescope: Sophomore Computer Engineering student who loves exploring different domains related to tech.
-
-- :seedling: Keen about Technical and Creative Content Writing.
-
-- :zap: A person who loves to skate and swim. </p>
-
+<div id="Description" align="center">
+  - :mailbox: A Full Stack Developer from India.
+  - :telescope: Sophomore Computer Engineering student who loves exploring different domains related to tech.
+  - :seedling: Keen about Technical and Creative Content Writing.
+  - :zap: A person who loves to skate and swim. 
+<div>
+  
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
