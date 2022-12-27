@@ -1,5 +1,5 @@
 
-### <p align="center" style="font-size:100px;"> 👋 Bonjour </p>
+### <p align="center" style="font-size:100px;"> 👋 Bonjour! </p>
 
 <div id="Header" align="center">
   
@@ -7,7 +7,9 @@
   
 </div>
 
-### <p align="center"> :woman_technologist: About Me: </p>
+### <p align="center"> 
+  :woman_technologist: About Me: 
+</p>
 
 <div id="Description" align="center">
   
