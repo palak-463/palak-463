@@ -3,5 +3,6 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
 </div>
 <div id="body" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue" width="150"/>
+  <img src="[https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+)" width="150"/>
 </div>
