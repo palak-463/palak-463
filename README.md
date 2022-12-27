@@ -7,7 +7,7 @@
   
 </div>
 
-### <p align="center"> :woman_technologist: About Me : </p>
+### <p align="center"> :woman_technologist: About Me: </p>
 
 <div id="Description" align="center">
   
@@ -21,10 +21,8 @@
   
 <div>
   
-### :hammer_and_wrench: Languages and Tools :
+  ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
 
-<div id="Knowledge" align="center">
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
@@ -37,4 +35,3 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
   
-</div>
