@@ -5,9 +5,10 @@
 </div>
 
 ### :woman_technologist: About Me :
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Currently a second-year Computer Engineering student who loves exploring different domain related to tech.
 
 - :seedling: Keen about Technical and Creative Content Writing.
 
