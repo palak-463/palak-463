@@ -7,9 +7,7 @@
   
 </div>
 
-### <p align="center"> 
-  :woman_technologist: About Me: 
-</p>
+### <p align="center"> :woman_technologist: About Me: </p>
 
 <div id="Description" align="center">
   
