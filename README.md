@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250" alt="Coder"/>
 </div>
 
-### <p align="center"> :woman_technologist: About Me : </p>
+### <p align="center"> :woman_technologist: About Me : 
 
 - :mailbox: A Full Stack Developer from India.
 
@@ -12,7 +12,7 @@
 
 - :seedling: Keen about Technical and Creative Content Writing.
 
-- :zap: A person who loves to skate and swim.
+- :zap: A person who loves to skate and swim. </p>
 
 ### :hammer_and_wrench: Languages and Tools :
 
