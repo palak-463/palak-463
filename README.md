@@ -2,6 +2,7 @@
 <div id="Header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200" alt="Coder"/>
 </div>
+
 ### <p align="center"> :woman_technologist: About Me: </p>
 <div id="Description" align="center">
   :mailbox: A Full Stack Developer from India. <br>
@@ -9,6 +10,7 @@
   :seedling: Keen about Technical and Creative Content Writing. <br>
   :zap: A person who loves to skate and swim. <br>
 </div>
+
 ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
 <div id="Badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
