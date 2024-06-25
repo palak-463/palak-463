@@ -13,9 +13,11 @@
   :seedling: Keen about App Development and Web Development. <br>
   :zap: A person who thoroughly enjoys skating and swimming during free time. <br>
 </div>
-<div>
-  [(https://github-readme-stats.vercel.app/api?username=palak-463)](https://github.com/palak-463/github-readme-stats)
-</div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=palak-463&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
 
 <div id="Badges" align="center">
