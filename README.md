@@ -14,7 +14,7 @@
   :zap: A person who thoroughly enjoys skating and swimming during free time. <br>
 </div>
 
-<div align=:center">
+<div id="stats" align=:center">
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=palak-463&theme=highcontrast&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stats)
 </div>
