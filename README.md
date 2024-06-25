@@ -8,12 +8,14 @@
 ### <p align="center"> :woman_technologist: About Me: </p>
 
 <div id="Description" align="center">
-  :mailbox: A Full Stack Developer born and brought up in Pune, Maharashtra, India. <br>
+  :mailbox: Full Stack Developer born and brought up in Pune, Maharashtra, India. <br>
   :telescope: Computer Engineering student who loves exploring domains related to tech. <br>
   :seedling: Keen about App Development and Web Development. <br>
   :zap: A person who thoroughly enjoys skating and swimming during free time. <br>
 </div>
-
+<div>
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=palak-463)](https://github.com/palak-463/github-readme-stats)
+</div>
 ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
 
 <div id="Badges" align="center">
