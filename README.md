@@ -10,18 +10,8 @@
 <div id="Description" align="center">
   :mailbox: Full Stack Developer born and brought up in Pune, Maharashtra, India. <br>
   :telescope: Computer Engineering student who loves exploring domains related to tech. <br>
-  :seedling: Keen about App Development and Web Development. <br>
+  :seedling: Keen about Problem Solving, Data Structures, and App and Web Development. <br>
   :zap: A person who thoroughly enjoys skating and swimming during free time. <br>
-</div>
-
-### <p align="center"> :fire: My Stats : </p>
-<div id="Stats" align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=palak-463&theme=highcontrast&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-463&layout=compact&theme=highcontrast&border_radius=5&card_width=500&card_height=200)](https://github.com/palak-463/github-readme-stats)
-
-
 </div>
 
 ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
@@ -52,4 +42,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+</div>
+
+### <p align="center"> :fire: My Stats : </p>
+
+<div id="Stats" align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=palak-463&theme=highcontrast&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-463&layout=compact&theme=highcontrast&border_radius=5&card_width=500&card_height=200)](https://github.com/palak-463/github-readme-stats)
 </div>
