@@ -15,7 +15,7 @@
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=palak-463
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=palak-463&theme=highcontrast&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
 
