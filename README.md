@@ -14,6 +14,10 @@
   :zap: A person who thoroughly enjoys skating and swimming during free time. <br>
 </div>
 
+<br>
+
+<br> 
+
 ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
 
 <div id="Badges" align="center">
@@ -43,6 +47,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
 </div>
+
+<br>
+
+<br> 
 
 ### <p align="center"> :fire: My Stats : </p>
 
