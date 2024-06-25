@@ -9,7 +9,7 @@
 
 <div id="Description" align="center">
   :mailbox: Full Stack Developer born and brought up in Pune, Maharashtra, India. <br>
-  :telescope: Computer Engineering student who loves exploring domains related to tech. <br>
+  :telescope: Computer Engineering student who loves exploring tech related domains. <br>
   :seedling: Keen about Problem Solving, Data Structures, and App and Web Development. <br>
   :zap: A person who thoroughly enjoys skating and swimming during free time. <br>
 </div>
