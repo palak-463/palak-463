@@ -14,7 +14,7 @@
   :zap: A person who thoroughly enjoys skating and swimming during free time. <br>
 </div>
 <div>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=palak-463)](https://github.com/palak-463/github-readme-stats)
+  [(https://github-readme-stats.vercel.app/api?username=palak-463)](https://github.com/palak-463/github-readme-stats)
 </div>
 ### <p align="center"> :hammer_and_wrench: Languages and Tools: </p>
 
