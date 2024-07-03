@@ -14,13 +14,6 @@
   :zap: A person who thoroughly enjoys skating and swimming during free time. <br>
 </div>
 
-<div id="Connect" align="center">
-<h3 align="center">Connect with me:</h3>
-<a href="https://linkedin.com/in/palak-pardeshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-pardeshi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/palak_pardeshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palak_pardeshi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<pardeshipalak463/profile>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<pardeshipalak463/profile>" height="30" width="40" /></a>
-</div>
-
 <br>
 
 <br> 
@@ -67,4 +60,11 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-463&layout=compact&theme=highcontrast&border_radius=5&card_width=500&card_height=200)](https://github.com/palak-463/github-readme-stats)
 
+</div>
+
+<div id="Connect" align="center">
+  <h3 align="center">Connect with me:</h3>
+  <a href="https://linkedin.com/in/palak-pardeshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-pardeshi" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/palak_pardeshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palak_pardeshi" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/<pardeshipalak463/profile>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<pardeshipalak463/profile>" height="30" width="40" /></a>
 </div>
